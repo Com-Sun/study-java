@@ -5,7 +5,7 @@
 * 틀렸을 경우 강의를 통한 학습
 * commit
 
-### [Part3](./src/part3)
+### [Part3 - 함수, OOP, 클래스, 생성자 특징 & 개념](./src/part3)
 
 ### Part4
 
