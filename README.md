@@ -4,8 +4,8 @@
 - 코딩을 통한 실습
 ## JAVA 개념
 
-- [Wrapper Class](./src/more/wrapper.md)
-- [Interface, Abstract class](./src/more/interfaceAbstract.md)
+- [Wrapper Class](./src/object_oriented/wrapper.md)
+- [Interface, Abstract class](src/object_oriented/inheritance)
 
 ## JAVA 실습
 

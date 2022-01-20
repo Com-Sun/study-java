@@ -1,6 +1,8 @@
-package more;
+package object_oriented.inheritance;
 
-public class SuperComputer extends Computer{
+import object_oriented.inheritance.Computer;
+
+public class SuperComputer extends Computer {
     SuperComputer() {
 
     }

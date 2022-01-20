@@ -1,4 +1,4 @@
-package more;
+package object_oriented.inheritance;
 
 public interface Machine {
     void power();

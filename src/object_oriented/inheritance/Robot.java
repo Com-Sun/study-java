@@ -1,4 +1,4 @@
-package more;
+package object_oriented.inheritance;
 
 public class Robot implements Machine {
     public void power() {
